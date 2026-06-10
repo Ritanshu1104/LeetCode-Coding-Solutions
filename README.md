@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
