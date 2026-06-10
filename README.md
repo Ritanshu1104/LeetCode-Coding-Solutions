@@ -63,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,8 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0115-distinct-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
