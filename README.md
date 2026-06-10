@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
 | ------- |
