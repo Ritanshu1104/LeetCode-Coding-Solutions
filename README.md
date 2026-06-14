@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
