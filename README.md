@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -171,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
