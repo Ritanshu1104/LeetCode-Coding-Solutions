@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
