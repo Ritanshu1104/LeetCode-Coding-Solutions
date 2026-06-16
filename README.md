@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1251-average-selling-price) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
