@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
@@ -228,4 +231,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
