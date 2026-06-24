@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3612-process-string-with-special-operations-i) |
