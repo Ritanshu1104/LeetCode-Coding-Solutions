@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -288,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
