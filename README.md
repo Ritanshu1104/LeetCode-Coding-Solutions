@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0165-compare-version-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0140-word-break-ii) |
+| [0165-compare-version-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0290-word-pattern) |
