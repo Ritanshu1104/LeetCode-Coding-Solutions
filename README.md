@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
