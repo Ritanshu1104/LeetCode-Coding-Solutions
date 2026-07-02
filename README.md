@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0130-surrounded-regions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Tree
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -333,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
