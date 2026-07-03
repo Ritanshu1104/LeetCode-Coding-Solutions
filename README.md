@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3640-trionic-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3640-trionic-array-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3640-trionic-array-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
