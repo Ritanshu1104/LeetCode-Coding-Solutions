@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0137-single-number-ii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
