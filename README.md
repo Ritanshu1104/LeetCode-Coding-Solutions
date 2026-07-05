@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0130-surrounded-regions) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0152-maximum-product-subarray) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3640-trionic-array-ii) |
