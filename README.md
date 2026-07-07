@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0290-word-pattern) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
