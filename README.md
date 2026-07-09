@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3640-trionic-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1871-jump-game-vii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
