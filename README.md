@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
