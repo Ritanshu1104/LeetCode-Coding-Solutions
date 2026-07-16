@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
 | ------- |
@@ -419,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
