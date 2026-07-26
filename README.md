@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
