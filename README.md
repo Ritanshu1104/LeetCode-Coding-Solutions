@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0190-reverse-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1260-shift-2d-grid) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3838-weighted-word-mapping) |
