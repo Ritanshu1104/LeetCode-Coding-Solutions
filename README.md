@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1871-jump-game-vii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1871-jump-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -503,4 +506,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
