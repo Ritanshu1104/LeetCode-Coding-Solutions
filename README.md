@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2029-stone-game-ix) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1927-sum-game) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -593,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
