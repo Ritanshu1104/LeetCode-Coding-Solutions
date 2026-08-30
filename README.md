@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
