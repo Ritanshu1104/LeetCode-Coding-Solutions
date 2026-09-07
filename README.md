@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
+| [0940-distinct-subsequences-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0174-dungeon-game) |
 | [0486-predict-the-winner](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1406-stone-game-iii) |
