@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1927-sum-game) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1872-stone-game-viii) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
