@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
+| [1096-brace-expansion-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0383-ransom-note) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
