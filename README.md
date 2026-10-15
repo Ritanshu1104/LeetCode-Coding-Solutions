@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
