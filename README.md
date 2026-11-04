@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -748,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritanshu1104/LeetCode-Coding-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Shortest Path
 |  |
 | ------- |
